@@ -1,0 +1,10 @@
+[project]
+name = "cloudcli"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "prompt-toolkit>=3.0.52",
+    "pygame>=2.6.1",
+    "python-vlc>=3.0.21203",
+    "yt-dlp>=2026.3.17",
+]
